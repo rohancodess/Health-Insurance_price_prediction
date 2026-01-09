@@ -8,10 +8,10 @@ The application is built using **Python, Scikit-learn, and Streamlit** and provi
 ## 🚀 Live Application Preview
 
 ### 🔹 User Input Interface
-![Before Prediction](images/Before_prediction.png)
+![Before Prediction](Before_prediction.png)
 
 ### 🔹 Prediction Output
-![After Prediction](images/After_prediction.png)
+![After Prediction](After_prediction.png)
 
 ---
 
